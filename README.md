@@ -1,4 +1,5 @@
 # convertstringintopiglatin-cplusplus
+This program was solved in C++.
   Question No.2  Write a program that prompts the user to input a string and then outputs the string in the pig Latin form. 
   The rules for converting a string into pig Latin form are as follows:  
   NOTE:using linklist
